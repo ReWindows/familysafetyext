@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "familysafetyext.dll",
+  "latest": "1065702687-1A31F561E1C00B9DE452B5235F6B4CAF-1",
+  "builds": [
+    {
+      "key": "1065702687-1A31F561E1C00B9DE452B5235F6B4CAF-1",
+      "timestamp": "1065702687",
+      "pdb_guid": "1A31F561E1C00B9DE452B5235F6B4CAF",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1065702687-1A31F561E1C00B9DE452B5235F6B4CAF-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
